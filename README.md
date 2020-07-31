@@ -8,7 +8,7 @@ Greetings! I am an aspiring software developer from Serbia.
 - 🌱 I’m currently learning more about Rails, React and Js.
 - 📫 How to reach me: Best place to reach me is via email. You could also add me on [LinkedIn](https://www.linkedin.com/in/milosvukadinovic/) or [Instagram](https://www.instagram.com/milos_vukadinovic11/).
 - ⚡ Something that can tell you a lot about me: I love rewatching the Friends TV show when I'm feeling down. 😄
-
+<div></div>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
