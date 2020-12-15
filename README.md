@@ -4,9 +4,6 @@
 
 Greetings! I am an aspiring software developer from Serbia. My primary languages are JS and Ruby.
 
-- ⭐ Looking for a new opportunity.
-- 🔭 At the moment - working on my own projects. Fixing and creating new ones to expand and strenghten my skills.
-- 🌱 I’m currently learning more about Rails, React and Js.
 - 📫 How to reach me: The best way to reach me is via [email](mailto:milos.vukadinovic11@gmail.com). You could also add me on [LinkedIn](https://www.linkedin.com/in/milosvukadinovic/) or [Instagram](https://www.instagram.com/milos_vukadinovic11/).
 - ⚡ Something that can tell you a lot about me: I love rewatching the Friends TV show when I'm feeling down. 😄
 #
